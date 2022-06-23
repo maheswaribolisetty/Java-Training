@@ -1,0 +1,58 @@
+bolis@LAPTOP-75ALJSKJ MINGW64 ~
+$ git config--global user.name "maheswaribolisetty"
+git: 'config--global' is not a git command. See 'git --help'.
+
+bolis@LAPTOP-75ALJSKJ MINGW64 ~
+$ git config -- global user.name "maheswaribolisetty"
+fatal: not in a git directory
+
+bolis@LAPTOP-75ALJSKJ MINGW64 ~
+$ git config --global user.name "maheswaribolisetty"
+
+bolis@LAPTOP-75ALJSKJ MINGW64 ~
+$ git config --global user.email "bolisettymaheswari2001@gmail.com"
+
+bolis@LAPTOP-75ALJSKJ MINGW64 ~
+$ cd /d/
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d
+$ dir
+$MfeDeepRem
+$RECYCLE.BIN
+System\ Volume\ Information
+www.7MovieRulz.at\ -\ F3\ Fun\ and\ Frustration\ (2022)\ 720p\ Telugu\ DVDScr\ x264\ MP3\ 1.4GB.mkv
+www.7MovieRulz.at\ -\ Jana\ Gana\ Mana\ (2022)\ 720p\ Telugu\ HQ\ HDRip\ -\ x264\ -\ (DD+5.1\ -\ 192Kbps\ &\ AAC)\ -\ 1.4GB\ -\ ESub.mkv
+www.7MovieRulz.lt\ -\ Acharya\ (2022)\ 720p\ Telugu\ HQ\ HDRip\ x264\ (DD.5.1\ -\ 192Kbps\ &\ AAC\ 2.0)\ 1.4GB\ ESub.mkv
+www.7MovieRulz.lt\ -\ Beast\ (2022)\ 720p\ Telugu\ (Org\ Vers)\ HQ\ HDRip\ x264\ (DD.5.1\ -\ 192Kbps\ &\ AAC\ 2.0)]\ 1.4GB\ ESub.mkv
+www.7MovieRulz.lt\ -\ RRR\ (2022)\ 720p\ Telugu\ HQ\ HDRip\ x264\ AAC\ 1.4GB\ ESub.mkv
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d
+$ mkdir trg
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d
+$ cd trg
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg
+$ git clone https://github.com/maheswaribolisetty/Java-Training.git
+Cloning into 'Java-Training'...
+warning: You appear to have cloned an empty repository.
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg
+$ cd JavaTraining/
+bash: cd: JavaTraining/: No such file or directory
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg
+$ cd Java-Training/
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg/Java-Training (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg/Java-Training (main)
+$ git add .
+
+bolis@LAPTOP-75ALJSKJ MINGW64 /d/trg/Java-Training (main)
+$
